@@ -32,7 +32,7 @@
 <img align="left" alt="ubuntu" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
 <img align="left" alt="figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
 <br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuonghuy0603&show_icons=true&locale=en&layout=compact" alt="tuonghuy0603" /></div>
+
 
 # 📊 GitHub Stats:
 <div align="center">
