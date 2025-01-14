@@ -5,13 +5,14 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuonghuy0603&label=Profile%20views&color=0e75b6&style=flat" alt="tuonghuy0603" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-- 📫 How to reach me **huytuongta@gmail.com**
-<br />
-- 📄 Know about my experiences (https://drive.google.com/file/d/1UJTQTRNCgY903i1K24aHuOuKsdeI5IQT/view?usp=sharing)
-
-
+# 💫 About Me:
+- 👊 I am presently ranked in the top **#54** among GitHub Users By Followers in **Vietnam** 🇻🇳 (01/2025). Evidence link: [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/vietnam.md)
+- 🌱 I’m currently learning NuxtJS and NestJS 😄
+- 💬 Ask me about everything 🤔
+- 📫 Contact me via email: <a href="mailto:huytuongta@gmail.com?subject=Hello TuongHuy">huytuongta@gmail.com</a>.
+- 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0352512968">0352512968</a>.
+- 📄 See my CV: <a target="_blank" href="[https://drive.google.com/file/d/1RHUoNBxvkKRjzz4zYIvoZWocGgHFRzN0/view](https://drive.google.com/file/d/1UJTQTRNCgY903i1K24aHuOuKsdeI5IQT/view)
+">here</a>.<!-- 
 
 <br />
 
