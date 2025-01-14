@@ -5,14 +5,14 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuonghuy0603&label=Profile%20views&color=0e75b6&style=flat" alt="tuonghuy0603" /> </p>
 
-- 📫 How to reach me **huytuongta@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UJTQTRNCgY903i1K24aHuOuKsdeI5IQT/view?usp=sharing](https://drive.google.com/file/d/1UJTQTRNCgY903i1K24aHuOuKsdeI5IQT/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <p align="left">
 </p>
+- 📫 How to reach me **huytuongta@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UJTQTRNCgY903i1K24aHuOuKsdeI5IQT/view?usp=sharing](https://drive.google.com/file/d/1UJTQTRNCgY903i1K24aHuOuKsdeI5IQT/view?usp=sharing)
+
 <br />
 
 
