@@ -11,13 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <p align="left">
 </p>
 <br />
 
-### My Resume/CV/Portfolio Website: [HERE](https://longphanportfolio.vercel.app)
 
 <h3 align="left">Languages and Tools:</h3>
 [linkedin]: https://www.linkedin.com/in/phanquangminhlong](https://www.linkedin.com/in/tuong-huy-ta
