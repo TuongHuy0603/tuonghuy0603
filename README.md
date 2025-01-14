@@ -25,7 +25,7 @@
 <img align="left" alt="sass" width="26px" src="https://img.icons8.com/color/344/sass.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/344/bootstrap.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/officel/344/react.png" />
-<img align="left" alt="sqlserver" width="26px" src="https://img.icons8.com/color/344/nextjs.png" />
+<img align="left" alt="Nextjs" width="26px" src="https://img.icons8.com/color/344/nextjs.png" />
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/typescript.png" />
 <!-- [<img align="left" alt="gulp" width="26px" src="https://media.discordapp.net/attachments/1026660684739653674/1108645323263451176/gulp26official.png" />][website] -->
 <img align="left" alt="mysql" width="26px" src="https://img.icons8.com/color/344/mysql.png" />
