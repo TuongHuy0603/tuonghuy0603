@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuonghuy0603&label=Profile%20views&color=0e75b6&style=flat" alt="tuonghuy0603" /> </p>
 
 # 💫 About Me:
-- 👊 I am presently ranked in the top **#54** among GitHub Users By Followers in **Vietnam** 🇻🇳 (01/2025). Evidence link: [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/vietnam.md)
 - 🌱 I’m currently learning Nextjs and NestJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:huytuongta@gmail.com?subject=Hello TuongHuy">huytuongta@gmail.com</a>.
