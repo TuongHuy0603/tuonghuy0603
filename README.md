@@ -31,6 +31,31 @@
 <img align="left" alt="mysql" width="26px" src="https://img.icons8.com/color/344/mysql.png" />
 <img align="left" alt="ubuntu" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
 <img align="left" alt="figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
-
+<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuonghuy0603&show_icons=true&locale=en&layout=compact" alt="tuonghuy0603" /></p>
+# 📊 GitHub Stats:
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api?username=longphanquangminh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ 
+</div>
+
+<div align="center">
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=longphanquangminh&theme=dark&hide_border=false)<br/>
+
+</div>
+
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=longphanquangminh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+### ✍️ Random Dev Quote
+<div align="center">
+
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
