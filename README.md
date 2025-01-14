@@ -9,7 +9,8 @@
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 - 📫 How to reach me **huytuongta@gmail.com**
 <br />
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UJTQTRNCgY903i1K24aHuOuKsdeI5IQT/view?usp=sharing]
+- 📄 Know about my experiences (https://drive.google.com/file/d/1UJTQTRNCgY903i1K24aHuOuKsdeI5IQT/view?usp=sharing)
+
 
 
 <br />
