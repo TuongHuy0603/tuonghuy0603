@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ta Tuong Huy</h1>
+<div align="center">
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF719&width=435&lines=Hi%2C+i'm+Ta+Tuong+Huy;I'm+a+front-end+web+developer)](https://git.io/typing-svg)
 
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuonghuy0603&label=Profile%20views&color=0e75b6&style=flat" alt="tuonghuy0603" /> </p>
 
 - 📫 How to reach me **huytuongta@gmail.com**
