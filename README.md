@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 - 👊 I am presently ranked in the top **#54** among GitHub Users By Followers in **Vietnam** 🇻🇳 (01/2025). Evidence link: [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/vietnam.md)
-- 🌱 I’m currently learning NuxtJS and NestJS 😄
+- 🌱 I’m currently learning Nextjs and NestJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:huytuongta@gmail.com?subject=Hello TuongHuy">huytuongta@gmail.com</a>.
 - 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0352512968">0352512968</a>.
