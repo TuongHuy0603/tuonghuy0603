@@ -28,6 +28,7 @@
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/typescript.png" />
 <!-- [<img align="left" alt="gulp" width="26px" src="https://media.discordapp.net/attachments/1026660684739653674/1108645323263451176/gulp26official.png" />][website] -->
 <img align="left" alt="mysql" width="26px" src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" />
+<img align="left" alt="redux" width="26px" src="https://img.icons8.com/color/344/redusx.png" />
 <img align="left" alt="ubuntu" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
 <img align="left" alt="nestjs" width="26px" src="https://img.icons8.com/color/344/nestjs.png" />
 <img align="left" alt="figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
