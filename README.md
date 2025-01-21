@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuonghuy0603&label=Profile%20views&color=0e75b6&style=flat" alt="tuonghuy0603" /> </p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning Nextjs and NestJS 😄
+- 🌱 I’m currently doing Nextjs and NestJS 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:huytuongta@gmail.com?subject=Hello TuongHuy">huytuongta@gmail.com</a>.
 - 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0352512968">0352512968</a>.
