@@ -31,6 +31,7 @@
 <img align="left" alt="redux" width="26px" src="https://img.icons8.com/color/344/redux.png" />
 <img align="left" alt="ubuntu" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
 <img align="left" alt="nestjs" width="26px" src="https://img.icons8.com/color/344/nestjs.png" />
+<img align="left" alt="mongo" width="26px" src="https://img.icons8.com/color/344/mongodb.png" />
 <img align="left" alt="figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
 <br />
 
