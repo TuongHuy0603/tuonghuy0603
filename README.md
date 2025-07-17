@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ta Tuong Huy</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EADF8&background=F0FF5300&multiline=true&width=435&lines=Hi%2C+I'm+Ta+Tuong+Huy;I'm+a+Front-end+Developer" alt="Typing SVG" /></a></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuonghuy0603&label=Profile%20views&color=0e75b6&style=flat" alt="tuonghuy0603" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EADF8&background=F0FF5300&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Ta+Tuong+Huy;I'm+a+Front-end+Developer" alt="Typing SVG" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=tuonghuy0603&label=Profile%20views&color=0e75b6&style=flat" alt="tuonghuy0603" /> </p>
 
 # 💫 About Me:
 - 🌱 I’m currently doing Nextjs and NestJS 😄
