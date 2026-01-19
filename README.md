@@ -7,7 +7,7 @@
 💬 Ask me about everything 🤔<br />
 📫 Contact me via email: <a href="mailto:huytuongta@gmail.com?subject=Hello TuongHuy">huytuongta@gmail.com</a>.<br />
 📞 Contact me via phone and Zalo: <a href="https://zalo.me/0352512968">0352512968</a>.<br />
-📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1dr1bCj8qaiECCpswn7vkocKscRb2z2DZ/view?usp=sharing">here</a>>.<!-- 
+📄 See my CV: <a target="_blank" href="">here</a>>.<!-- 
 
 <br />
 
